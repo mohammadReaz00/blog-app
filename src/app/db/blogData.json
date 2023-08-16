@@ -1,26 +1,32 @@
 [
   {
     "id": 1,
-    "title": "Hello World",
-    "des": "Lorem",
-    "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vitae odio harum minima expedita, veritatis enim ratione repellendus amet, officia cumque, possimus ut error exercitationem saepe laborum? Tempore, fuga, numquam iusto impedit, dolores vitae laboriosam reiciendis animi architecto assumenda corporis? quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+    "title": "Exploring the Universe",
+    "des": "Astronomy",
+    "body": "The universe is a vast expanse of space and time, filled with countless galaxies, stars, planets, and other celestial objects. Astronomers have been studying the universe for centuries, seeking to understand its origins, evolution, and mysteries. From the elegant dance of planets in our own solar system to the mind-boggling distances between galaxies, the universe continues to captivate our imagination."
   },
   {
-    "id": 1,
-    "title": "Hello World",
-    "des": "Lorem",
-    "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vitae odio harum minima expedita, veritatis enim ratione repellendus amet, officia cumque, possimus ut error exercitationem saepe laborum? Tempore, fuga, numquam iusto impedit, dolores vitae laboriosam reiciendis animi architecto assumenda corporis? est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla"
+    "id": 2,
+    "title": "The Art of Cooking",
+    "des": "Culinary",
+    "body": "Cooking is more than just preparing food; it's an art form that combines flavors, textures, and techniques to create delicious and visually appealing dishes. From traditional family recipes passed down through generations to modern culinary innovations, the world of cooking offers a diverse range of flavors and experiences. Whether you're a professional chef or an amateur cook, exploring new recipes and experimenting with ingredients can be a delightful journey of creativity."
   },
   {
-    "id": 1,
-    "title": "Hello World",
-    "des": "Lorem",
-    "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vitae odio harum minima expedita, veritatis enim ratione repellendus amet, officia cumque, possimus ut error exercitationem saepe laborum? Tempore, fuga, numquam iusto impedit, dolores vitae laboriosam reiciendis animi architecto assumenda corporis? et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut"
+    "id": 3,
+    "title": "The Power of Music",
+    "des": "Music",
+    "body": "Music is a universal language that has the power to evoke emotions, tell stories, and bring people together. From classical symphonies to energetic rock anthems, music spans genres and cultures, resonating with individuals in unique and meaningful ways. Whether you're a musician, a dedicated listener, or simply someone who enjoys humming along to a favorite tune, the world of music offers a rich tapestry of melodies and harmonies to explore."
   },
   {
-    "id": 1,
-    "title": "Hello World",
-    "des": "Lorem",
-    "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam vitae odio harum minima expedita, veritatis enim ratione repellendus amet, officia cumque, possimus ut error exercitationem saepe laborum? Tempore, fuga, numquam iusto impedit, dolores vitae laboriosam reiciendis animi architecto assumenda corporis? ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit"
+    "id": 4,
+    "title": "Exploring Underwater Wonders",
+    "des": "Marine Biology",
+    "body": "The world's oceans and seas are teeming with life, from the smallest plankton to the majestic whales that roam the deep waters. Marine biologists study the diverse ecosystems of the underwater world, uncovering the intricacies of marine life and the vital role oceans play in sustaining our planet. Through research and exploration, we gain insights into the fascinating creatures and environments that exist beneath the waves."
+  },
+  {
+    "id": 5,
+    "title": "Journey into Ancient History",
+    "des": "History",
+    "body": "History provides a window into the past, allowing us to explore the lives, cultures, and events that have shaped human civilization. From the ancient civilizations of Egypt and Mesopotamia to the revolutions that transformed nations, the study of history offers a deeper understanding of our roots and the lessons that can be learned from the experiences of those who came before us. Delving into history is a journey that connects us to our shared human heritage."
   }
 ]

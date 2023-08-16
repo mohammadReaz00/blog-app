@@ -1,4 +1,5 @@
 import data from "@/app/db/blogData.json";
+import Link from "next/link";
 
 const Id = ({ params }) => {
   const getId = params.id;
